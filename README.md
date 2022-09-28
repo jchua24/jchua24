@@ -1,4 +1,4 @@
-Hi 👋 My name is Joshua Chua!
+Hi 👋 My name is Joshua Chua
 =============================
 
 Software Engineer
@@ -6,7 +6,7 @@ Software Engineer
 
 * 🌍  I'm based in Toronto (for now)
 * ✉️  You can contact me at [joshuagodwin.chua@mail.utoronto.ca](mailto:joshuagodwin.chua@mail.utoronto.ca)
-* 🤝  Open to collaborating on interesting projects :)
+* 🤝  Open to collaborating on interesting projects!
 * ⚡  Listen to this while working you won't regret it --> https://sptfy.com/LFwY~s
 
 ### Skills
